@@ -1,0 +1,23 @@
+.Maindiv{  width: 100%;display:flex;}
+
+.sub{width: 70%;margin-left: 20px;margin-top:16px;display:flex;}
+
+.sub1{display: block; font-size: 1rem; font-family: sans-serif; color: black; margin-left: 180px;}
+
+.sub2{display: block; font-size: 1rem; font-family: sans-serif; color: black; margin-left: 45px;}
+
+.sub3{display: block; font-size: 1rem; font-family: sans-serif; color: black; margin-left: 45px;}
+
+.sub4{display: block; font-size: 1rem; font-family: sans-serif; color: black; margin-left: 45px;}
+
+.sub5{display: block; font-size: 1rem; font-family: sans-serif; color: black; margin-left: 45px;}
+
+.sub6{display: block; font-size: 1rem; font-family: sans-serif; color: black; margin-left: 45px;}
+
+.sub7{display: block; font-size: 1rem; font-family: sans-serif; color: black; margin-left: 45px;}
+
+.sub8{font-family:sans-serif;display:flex;margin-left:119px;}
+
+.sub9{margin-left:7px;}
+
+.what-to-do{height: 300px;width: 80%;position: absolute;top: 150px;margin-left: 120px;}

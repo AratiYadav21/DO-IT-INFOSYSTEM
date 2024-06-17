@@ -1,0 +1,53 @@
+.bg{width:100%}
+
+.Form{width: 35%;height: 730px;background-color: #fff;position: relative;top: -872px;margin-left:490px;border: 3px solid #fff;opacity:0.2}
+
+.Reg{ width: 35%;position: absolute;top: 155px;text-align: center;margin-left: 485px;}
+.content{font-family:system-ui;font-size:2.5rem;font-weight:600;c}
+
+
+.Name{ width: 30%;position: absolute;top: 262px;margin-left: 525px;height: 50px;}
+.content1{font-family:system-ui;font-size:1rem;font-weight:400;margin-left: 35px;display: flex;padding-top: 12px;}
+.inputname{border-bottom: 1px solid #000;border-top: 0px;border-left: 0px;border-right: 0px;height:30px;outline:none;background-color: transparent;width: 435px;margin-left: 35px;margin-top: 10;}
+
+
+.Email{ width: 30%;position: absolute;top: 340px;margin-left: 525px;height: 50px;}
+.content2{font-family:system-ui;font-size:1rem;font-weight:400;margin-left: 35px;display: flex;padding-top: 12px;}
+.inputID{border-bottom: 1px solid #000;border-top: 0px;border-left: 0px;border-right: 0px;height:30px;outline:none;background-color: transparent;width: 435px;margin-left: 35px;margin-top: 10;}
+
+
+.Country{ width: 30%;position: absolute;top: 415px;margin-left: 525px;height: 50px;}
+.content2{font-family:system-ui;font-size:1rem;font-weight:400;margin-left: 35px;display: flex;padding-top: 12px;}
+.Country1{border-bottom: 1px solid #000;border-top: 0px;border-left: 0px;border-right: 0px;height:30px;outline:none;background-color: transparent;width: 435px;margin-left: 35px;margin-top: 10;}
+
+
+.Phone{ width: 30%;position: absolute;top: 495px;margin-left: 525px;height: 50px;}
+.content2{font-family:system-ui;font-size:1rem;font-weight:400;margin-left: 35px;display: flex;padding-top: 12px;}
+.Ph1{border-bottom: 1px solid #000;border-top: 0px;border-left: 0px;border-right: 0px;height:30px;outline:none;background-color: transparent;width: 435px;margin-left: 35px;margin-top: 10;}
+
+
+
+.Password{ width: 30%;position: absolute;top: 575px;margin-left: 525px;height: 50px;}
+.content2{font-family:system-ui;font-size:1rem;font-weight:400;margin-left: 35px;display: flex;padding-top: 12px;}
+.Pass{border-bottom: 1px solid #000;border-top: 0px;border-left: 0px;border-right: 0px;height:30px;outline:none;background-color: transparent;width: 435px;margin-left: 35px;margin-top: 10;}
+.img2{width: 25px;height: 25px;position: absolute;top: 42px;margin-left: 440px;}
+
+
+.confirm{display:flex;position: absolute;top: 670px;margin-left: 560px;}
+.sub-div{margin-left:8px;}
+.lbl{font-size: 1rem;font-family: system-ui;font-weight: 400;}
+
+
+.Submit{position: absolute;top: 675px;margin-left: 632px;}
+.btn{font-family:system-ui;font-size:1.5rem;font-weight:600;display: flex;padding-top: 5px;justify-content:center;position:relative;top:53px;margin-left:20px;border:none;background-color:transparent;}
+
+
+.Acc{position: absolute;top: 800px;margin-left: 566px;height: 45px;width: 30%;}
+
+.Acc1{font-family:system-ui;font-size:1rem;font-weight:600;margin-left: 35px;display: flex;padding-top: 12px;}
+
+.Sign{position: absolute;top: 800px;margin-left: 596px;height: 45px;width: 30%;}
+
+.Sign1{font-family:system-ui;font-size:1rem;font-weight:600;margin-left: 200px;display: flex;padding-top: 12px;}
+.Sign1:hover{color:#fff;}
+

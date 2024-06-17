@@ -1,0 +1,10 @@
+.maindiv{
+	width:800px;
+	height:400px;
+	border:1px solid #000;
+	margin:auto;
+}
+.inputdiv{
+	margin-top:20px;
+	padding:10px;
+}
